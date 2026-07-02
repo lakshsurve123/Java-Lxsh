@@ -45,3 +45,66 @@
     }
 }
 */
+
+/*class DataTypes1 {
+
+    public static void main(String[] args) {
+
+        byte b = 10;
+        short s = 100;
+        int i = 1000;
+        long l = 100000L;
+
+        float f = 10.5f;
+        double d = 20.55;
+
+        char ch = 'A';
+        boolean status = true;
+
+        System.out.println(b);
+        System.out.println(s);
+        System.out.println(i);
+        System.out.println(l);
+        System.out.println(f);
+        System.out.println(d);
+        System.out.println(ch);
+        System.out.println(status);
+
+    }
+}
+*/
+
+/*class DataTypes2 {
+
+    public static void main(String[] args) {
+
+        String name = "Laksh";
+        int roll = 25;
+        float marks = 91.5f;
+
+        System.out.println(name);
+        System.out.println(roll);
+        System.out.println(marks);
+
+    }
+}
+*/
+
+/* 
+class Literal1 {
+
+    public static void main(String[] args) {
+
+        int num = 100;
+        double pi = 3.14;
+        char grade = 'A';
+        String city = "Mumbai";
+
+        System.out.println(num);
+        System.out.println(pi);
+        System.out.println(grade);
+        System.out.println(city);
+
+    }
+}
+        */
