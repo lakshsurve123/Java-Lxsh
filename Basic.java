@@ -107,4 +107,62 @@ class Literal1 {
 
     }
 }
-        */
+*/
+
+/*class Literal2 {
+
+    public static void main(String[] args) {
+
+        int binary = 0b1010;
+        int hex = 0xA;
+        int octal = 012;
+
+        System.out.println(binary);
+        System.out.println(hex);
+        System.out.println(octal);
+
+    }
+} */
+
+/*class TypeConversion1 {
+
+    public static void main(String[] args) {
+
+        int a = 50;
+
+        double b = a;
+
+        System.out.println(a);
+        System.out.println(b);
+
+    }
+} */
+
+/*class TypeConversion2 {
+
+    public static void main(String[] args) {
+
+        double d = 15.87;
+
+        int i = (int)d;
+
+        System.out.println(d);
+        System.out.println(i);
+
+    }
+} */
+
+/*class Assignment1 {
+
+    public static void main(String[] args) {
+
+        int a = 10;
+
+        a += 5;
+
+        System.out.println(a);
+
+    }
+}
+     */
+
