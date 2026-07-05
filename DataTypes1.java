@@ -182,7 +182,7 @@ class Baby  {
 }
 */
 
-
+/* 
 class Relational1 {
 
     public static void main(String[] args) {
@@ -195,3 +195,136 @@ class Relational1 {
 
     }
 } 
+*/
+
+
+
+class Relational2 {
+
+    public static void main(String[] args) {
+
+        int x = 50;
+        int y = 50;
+
+        System.out.println(x == y);
+        System.out.println(x != y);
+
+    }
+}
+/*7. Logical Operators
+Program 1
+class Logical1 {
+
+    public static void main(String[] args) {
+
+        int age = 20;
+
+        System.out.println(age > 18 && age < 30);
+
+    }
+}
+Program 2
+class Logical2 {
+
+    public static void main(String[] args) {
+
+        boolean a = true;
+        boolean b = false;
+
+        System.out.println(a || b);
+        System.out.println(!a);
+
+    }
+}
+8. If Statement
+Program 1
+class If1 {
+
+    public static void main(String[] args) {
+
+        int age = 20;
+
+        if(age >= 18)
+            System.out.println("Eligible to Vote");
+
+    }
+}
+Program 2
+class If2 {
+
+    public static void main(String[] args) {
+
+        int number = 15;
+
+        if(number > 0)
+            System.out.println("Positive Number");
+
+    }
+}
+9. If-Else
+Program 1
+class IfElse1 {
+
+    public static void main(String[] args) {
+
+        int number = 25;
+
+        if(number % 2 == 0)
+            System.out.println("Even");
+        else
+            System.out.println("Odd");
+
+    }
+}
+Program 2
+class IfElse2 {
+
+    public static void main(String[] args) {
+
+        int marks = 40;
+
+        if(marks >= 35)
+            System.out.println("Pass");
+        else
+            System.out.println("Fail");
+
+    }
+}
+10. Else-If Ladder
+Program 1
+class ElseIf1 {
+
+    public static void main(String[] args) {
+
+        int marks = 82;
+
+        if(marks >= 90)
+            System.out.println("Grade A");
+        else if(marks >= 75)
+            System.out.println("Grade B");
+        else if(marks >= 60)
+            System.out.println("Grade C");
+        else
+            System.out.println("Fail");
+
+    }
+}
+Program 2
+class ElseIf2 {
+
+    public static void main(String[] args) {
+
+        int a = 20;
+        int b = 40;
+        int c = 30;
+
+        if(a > b && a > c)
+            System.out.println("A is Largest");
+        else if(b > c)
+            System.out.println("B is Largest");
+        else
+            System.out.println("C is Largest");
+
+    }
+}
+    */
