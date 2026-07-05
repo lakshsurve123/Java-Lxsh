@@ -139,7 +139,7 @@ class TypeConversion1 {
 
     }
 } 
-*/
+*//* 
 class TypeConversion2 {
 
     public static void main(String[] args) {
@@ -152,9 +152,9 @@ class TypeConversion2 {
         System.out.println(i);
 
     }
-} 
+} */
 
-/*class Assignment1 {
+class Assignment1 {
 
     public static void main(String[] args) {
 
@@ -166,7 +166,7 @@ class TypeConversion2 {
 
     }
 }
-     */
+
 
 /*class Assignment2 {
 
