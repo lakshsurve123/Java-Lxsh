@@ -125,7 +125,7 @@ class Literal2 {
 
     }
 } 
-*/
+*//* 
 class TypeConversion1 {
 
     public static void main(String[] args) {
@@ -139,8 +139,8 @@ class TypeConversion1 {
 
     }
 } 
-
-/*class TypeConversion2 {
+*/
+class TypeConversion2 {
 
     public static void main(String[] args) {
 
@@ -152,7 +152,7 @@ class TypeConversion1 {
         System.out.println(i);
 
     }
-} */
+} 
 
 /*class Assignment1 {
 
