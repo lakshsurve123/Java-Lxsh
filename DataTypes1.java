@@ -198,7 +198,7 @@ class Relational1 {
 */
 
 
-
+/* 
 class Relational2 {
 
     public static void main(String[] args) {
@@ -210,9 +210,8 @@ class Relational2 {
         System.out.println(x != y);
 
     }
-}
-/*7. Logical Operators
-Program 1
+}*/
+
 class Logical1 {
 
     public static void main(String[] args) {
@@ -222,7 +221,9 @@ class Logical1 {
         System.out.println(age > 18 && age < 30);
 
     }
+
 }
+/* 
 Program 2
 class Logical2 {
 
