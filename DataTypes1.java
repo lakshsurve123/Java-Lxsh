@@ -13,7 +13,7 @@
 }
 */
 
-/*class Variables1 {
+/*public class Variables1 {
     public static void main(String[] args) {
 
         int age = 20;
@@ -28,7 +28,7 @@
 }
 */
 
-/*class Variables2 {
+/*public class Variables2 {
     public static void main(String[] args) {
 
         int a = 10;
@@ -45,8 +45,8 @@
     }
 }
 */
-
-/*class DataTypes1 {
+/* 
+public class DataTypes1 {
 
     public static void main(String[] args) {
 
@@ -74,7 +74,9 @@
 }
 */
 
-/*class DataTypes2 {
+
+
+class DataTypes2 {
 
     public static void main(String[] args) {
 
@@ -88,7 +90,7 @@
 
     }
 }
-*/
+
 
 /* 
 class Literal1 {
@@ -166,3 +168,29 @@ class Literal1 {
 }
      */
 
+/*class Assignment2 {
+
+    public static void main(String[] args) {
+
+        int a = 20;
+
+        a *= 3;
+
+        System.out.println(a);
+
+    }
+}
+//6. Relational Operators
+Program 1
+class Relational1 {
+
+    public static void main(String[] args) {
+
+        int a = 10;
+        int b = 20;
+
+        System.out.println(a > b);
+        System.out.println(a < b);
+
+    }
+} */
