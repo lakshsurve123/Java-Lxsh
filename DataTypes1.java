@@ -75,7 +75,7 @@ public class DataTypes1 {
 */
 
 
-
+/* 
 class DataTypes2 {
 
     public static void main(String[] args) {
@@ -90,9 +90,8 @@ class DataTypes2 {
 
     }
 }
+*/
 
-
-/* 
 class Literal1 {
 
     public static void main(String[] args) {
@@ -109,7 +108,7 @@ class Literal1 {
 
     }
 }
-*/
+
 
 /*class Literal2 {
 
