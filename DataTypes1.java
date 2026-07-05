@@ -91,7 +91,7 @@ class DataTypes2 {
     }
 }
 */
-
+/* 
 class Literal1 {
 
     public static void main(String[] args) {
@@ -108,9 +108,10 @@ class Literal1 {
 
     }
 }
+*/
 
 
-/*class Literal2 {
+class Literal2 {
 
     public static void main(String[] args) {
 
@@ -123,7 +124,7 @@ class Literal1 {
         System.out.println(octal);
 
     }
-} */
+} 
 
 /*class TypeConversion1 {
 
