@@ -167,7 +167,7 @@ class Assignment1 {
     }
 }
 */
-
+/* 
 class Baby  {
 
     public static void main(String[] args) {
@@ -180,12 +180,9 @@ class Baby  {
 
     }
 }
+*/
 
 
-
-/* 
-//6. Relational Operators
-Program 1
 class Relational1 {
 
     public static void main(String[] args) {
@@ -197,4 +194,4 @@ class Relational1 {
         System.out.println(a < b);
 
     }
-} */
+} 
