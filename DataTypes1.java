@@ -110,7 +110,7 @@ class Literal1 {
 }
 */
 
-
+/* 
 class Literal2 {
 
     public static void main(String[] args) {
@@ -125,8 +125,8 @@ class Literal2 {
 
     }
 } 
-
-/*class TypeConversion1 {
+*/
+class TypeConversion1 {
 
     public static void main(String[] args) {
 
@@ -138,7 +138,7 @@ class Literal2 {
         System.out.println(b);
 
     }
-} */
+} 
 
 /*class TypeConversion2 {
 
