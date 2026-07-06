@@ -274,7 +274,7 @@ class If2 {
 
 */
 
- 
+ /* 
 class IfElse1 {
 
     public static void main(String[] args) {
@@ -287,9 +287,16 @@ class IfElse1 {
             System.out.println("Odd");
 
     }
-}
+}*/
 /* Program 2 */
-/* 
+
+
+
+
+
+
+
+
 class IfElse2 {
 
     public static void main(String[] args) {
@@ -303,8 +310,10 @@ class IfElse2 {
 
     }
 }
-10. Else-If Ladder
-Program 1
+
+
+
+/* 
 class ElseIf1 {
 
     public static void main(String[] args) {
@@ -322,7 +331,7 @@ class ElseIf1 {
 
     }
 }
-Program 2
+/*
 class ElseIf2 {
 
     public static void main(String[] args) {
