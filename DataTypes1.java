@@ -306,7 +306,7 @@ class IfElse2 {
 
 */
 
-
+/* 
 class ElseIf1 {
 
     public static void main(String[] args) {
@@ -324,7 +324,8 @@ class ElseIf1 {
 
     }
 }
-/* 
+    */
+
 class ElseIf2 {
 
     public static void main(String[] args) {
@@ -342,4 +343,3 @@ class ElseIf2 {
 
     }
 }
-    */
