@@ -227,8 +227,7 @@ class Logical1 {
 
 
 
-//////
-
+/* 
 class Logical2 {
 
     public static void main(String[] args) {
@@ -241,10 +240,9 @@ class Logical2 {
 
     }
 }
+*/
 
-/* 
-8. If Statement
-Program 1
+
 class If1 {
 
     public static void main(String[] args) {
@@ -256,6 +254,7 @@ class If1 {
 
     }
 }
+/*
 Program 2
 class If2 {
 
