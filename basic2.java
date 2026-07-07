@@ -20,7 +20,7 @@ class Overloading2 {
 }
 */
 
-
+/* 
 
 class Array1 {
 
@@ -35,9 +35,9 @@ class Array1 {
         }
 
     }
-}
-/* 
-Program 2: Sum of Array
+}*/
+
+//Program 2: Sum of Array
 class Array2 {
 
     public static void main(String args[]) {
@@ -56,6 +56,7 @@ class Array2 {
 
     }
 }
+/* 
 21. 2D Arrays
 Program 1
 class TwoDArray1 {
