@@ -58,9 +58,7 @@ class Array2 {
     }
 }
     */
-
-
-
+/* 
 class TwoDArray1 {
 
     public static void main(String args[]) {
@@ -84,7 +82,11 @@ class TwoDArray1 {
 
     }
 }
-/*Program 2
+*/
+
+
+//Program 2
+
 class TwoDArray2 {
 
     public static void main(String args[]) {
@@ -108,6 +110,7 @@ class TwoDArray2 {
 
     }
 }
+/* 
 22. Jagged Arrays
 Program 1
 class JaggedArray1 {
