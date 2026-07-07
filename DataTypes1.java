@@ -348,6 +348,7 @@ class ElseIf2 {
 18. Methods
 Program 1: Method Without Return Value
 */
+/* 
 class Methods1 {
 
     void greet() {
@@ -361,9 +362,9 @@ class Methods1 {
         obj.greet();
 
     }
-}
-/*
-Program 2: Method With Return Value
+}*/
+
+//Program 2: Method With Return Value
 class Methods2 {
 
     int add(int a, int b) {
@@ -380,8 +381,10 @@ class Methods2 {
 
     }
 }
-19. Method Overloading
-Program 1
+
+//19. Method Overloading
+//Program 1
+/* 
 class Overloading1 {
 
     int add(int a, int b) {
