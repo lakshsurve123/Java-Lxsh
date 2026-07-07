@@ -365,6 +365,7 @@ class Methods1 {
 }*/
 
 //Program 2: Method With Return Value
+/* 
 class Methods2 {
 
     int add(int a, int b) {
@@ -381,10 +382,10 @@ class Methods2 {
 
     }
 }
-
+*/    
 //19. Method Overloading
 //Program 1
-/* 
+ 
 class Overloading1 {
 
     int add(int a, int b) {
@@ -404,6 +405,7 @@ class Overloading1 {
 
     }
 }
+/* 
 Program 2
 class Overloading2 {
 
