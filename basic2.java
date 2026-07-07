@@ -38,6 +38,7 @@ class Array1 {
 }*/
 
 //Program 2: Sum of Array
+/* 
 class Array2 {
 
     public static void main(String args[]) {
@@ -56,9 +57,10 @@ class Array2 {
 
     }
 }
-/* 
-21. 2D Arrays
-Program 1
+    */
+
+
+
 class TwoDArray1 {
 
     public static void main(String args[]) {
@@ -82,7 +84,7 @@ class TwoDArray1 {
 
     }
 }
-Program 2
+/*Program 2
 class TwoDArray2 {
 
     public static void main(String args[]) {
