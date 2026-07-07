@@ -1,4 +1,4 @@
-
+/* 
 class Overloading2 {
 
     void display() {
@@ -18,10 +18,10 @@ class Overloading2 {
 
     }
 }
+*/
 
-/* 
-20. Arrays
-Program 1: Print Array
+
+
 class Array1 {
 
     public static void main(String args[]) {
@@ -36,6 +36,7 @@ class Array1 {
 
     }
 }
+/* 
 Program 2: Sum of Array
 class Array2 {
 
