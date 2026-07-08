@@ -114,6 +114,7 @@ class TwoDArray2 {
 
 //22. Jagged Arrays
 //Program 1
+/* 
 class JaggedArray1 {
 
     public static void main(String args[]) {
@@ -142,8 +143,8 @@ class JaggedArray1 {
 
     }
 }
-/* 
-Program 2
+    */
+
 class JaggedArray2 {
 
     public static void main(String args[]) {
@@ -167,7 +168,8 @@ class JaggedArray2 {
         }
 
     }
-}
+
+}/* 
 23. Enhanced For Loop
 Program 1
 class EnhancedFor1 {
