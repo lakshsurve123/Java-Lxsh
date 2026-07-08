@@ -239,6 +239,7 @@ class String2 {
  
 //25. StringBuffer
 //Program 1
+/* 
 class StringBuffer1 {
 
     public static void main(String args[]) {
@@ -250,8 +251,8 @@ class StringBuffer1 {
         System.out.println(sb);
 
     }
-}/* 
-Program 2
+}
+    */
 class StringBuffer2 {
 
     public static void main(String args[]) {
@@ -263,7 +264,7 @@ class StringBuffer2 {
         System.out.println(sb);
 
     }
-}
+}/*
 26. StringBuilder
 Program 1
 class StringBuilder1 {
