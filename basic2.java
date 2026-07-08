@@ -221,7 +221,7 @@ class String1 {
     */
 
 //Program 2
-
+/* 
 class String2 {
 
     public static void main(String args[]) {
@@ -234,9 +234,11 @@ class String2 {
 
     }
 }
-/* 
-25. StringBuffer
-Program 1
+    */
+
+ 
+//25. StringBuffer
+//Program 1
 class StringBuffer1 {
 
     public static void main(String args[]) {
@@ -248,7 +250,7 @@ class StringBuffer1 {
         System.out.println(sb);
 
     }
-}
+}/* 
 Program 2
 class StringBuffer2 {
 
