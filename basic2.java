@@ -205,6 +205,7 @@ class EnhancedFor2 {
 
 //24. Strings
 //Program 1
+/* 
 class String1 {
 
     public static void main(String args[]) {
@@ -217,8 +218,10 @@ class String1 {
 
     }
 }
-/* 
-Program 2
+    */
+
+//Program 2
+
 class String2 {
 
     public static void main(String args[]) {
@@ -231,6 +234,7 @@ class String2 {
 
     }
 }
+/* 
 25. StringBuffer
 Program 1
 class StringBuffer1 {
