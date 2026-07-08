@@ -171,7 +171,7 @@ class JaggedArray2 {
 }
 */
  
-
+/* 
 class EnhancedFor1 {
 
     public static void main(String args[]) {
@@ -185,8 +185,8 @@ class EnhancedFor1 {
         }
 
     }
-}/* 
-Program 2
+}*/ 
+//Program 2
 class EnhancedFor2 {
 
     public static void main(String args[]) {
@@ -201,6 +201,7 @@ class EnhancedFor2 {
 
     }
 }
+/* 
 24. Strings
 Program 1
 class String1 {
