@@ -497,7 +497,7 @@ public class Super2 {
 
     }
 }*/ 
-
+/*
 class Student5 {
 
     int roll;
@@ -519,9 +519,8 @@ public class StaticVariable1 {
         System.out.println(s2.roll + " " + Student5.col);
 
     }
-}
-    /* 
-Program 2
+}*/
+
 class Counter {
 
     static int count = 0;
@@ -545,7 +544,7 @@ public class StaticVariable2 {
         System.out.println(Counter.count);
 
     }
-}
+}/* 
 32. Static Method
 Program 1
 class Demo {
