@@ -598,7 +598,7 @@ class Demo3 {
 
     }
 }*/
-
+/*
 class Test {
 
     static {
@@ -618,38 +618,33 @@ class Test {
         System.out.println("Program Started");
 
     }
-}/* 
+}*/
 
-class Student {
+class Student5 {
 
     private int roll;
 
     public void setRoll(int roll) {
-
         this.roll = roll;
-
     }
 
     public int getRoll() {
-
         return roll;
-
     }
-
 }
 
 public class Encapsulation1 {
 
     public static void main(String[] args) {
 
-        Student s = new Student();
+        Student5 s = new Student5();
 
         s.setRoll(101);
 
         System.out.println(s.getRoll());
-
     }
 }
+/* 
 Program 2
 class Employee {
 
