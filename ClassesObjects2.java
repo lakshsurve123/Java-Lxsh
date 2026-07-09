@@ -307,7 +307,7 @@ class Student  {
         System.out.println("Name: " + name);
     }
 }
-
+/*
 public class ClassesObjects1 {
 
     public static void main(String[] args) {
@@ -321,8 +321,8 @@ public class ClassesObjects1 {
 
     }
 }
-/* 
-Program 2: Car Class
+*/
+
 class Car {
 
     String brand;
@@ -344,6 +344,7 @@ public class ClassesObjects2 {
 
     }
 }
+/* 
 28. Constructors
 Program 1: Default Constructor
 class Student {
