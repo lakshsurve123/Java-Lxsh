@@ -466,7 +466,7 @@ public class Super1 {
 
     }
 }*/
-
+/* 
 class Animal {
 
     Animal() {
@@ -496,13 +496,12 @@ public class Super2 {
         new Dog();
 
     }
-}/* 
-31. Static Variable
-Program 1
-class Student {
+}*/ 
+
+class Student5 {
 
     int roll;
-    static String college = "Bharati Vidyapeeth";
+    static String col = "Bharati Vidyapeeth";
 
 }
 
@@ -510,17 +509,18 @@ public class StaticVariable1 {
 
     public static void main(String[] args) {
 
-        Student s1 = new Student();
-        Student s2 = new Student();
+        Student5 s1 = new Student5();
+        Student5 s2 = new Student5();
 
         s1.roll = 1;
         s2.roll = 2;
 
-        System.out.println(s1.roll + " " + Student.college);
-        System.out.println(s2.roll + " " + Student.college);
+        System.out.println(s1.roll + " " + Student5.col);
+        System.out.println(s2.roll + " " + Student5.col);
 
     }
 }
+    /* 
 Program 2
 class Counter {
 
