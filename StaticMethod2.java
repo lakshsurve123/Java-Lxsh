@@ -545,7 +545,7 @@ public class StaticVariable2 {
 
     }
 }*/
-
+/* 
 class Demo {
 
     static void message() {
@@ -563,9 +563,8 @@ public class StaticMethod1 {
         Demo.message();
 
     }
-}
-    /*
-Program 2
+}*/
+  
 class MathDemo {
 
     static int square(int n) {
@@ -584,8 +583,7 @@ public class StaticMethod2 {
 
     }
 }
-33. Static Block
-Program 1
+/* 
 class Demo {
 
     static {
