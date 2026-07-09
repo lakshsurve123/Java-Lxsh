@@ -322,7 +322,7 @@ public class ClassesObjects1 {
     }
 }
 */
-
+/*
 class Car {
 
     String brand;
@@ -343,13 +343,12 @@ public class ClassesObjects2 {
         c.start();
 
     }
-}
-/* 
-28. Constructors
-Program 1: Default Constructor
-class Student {
+}   
+*/
 
-    Student() {
+class Student1 {
+
+    Student1() {
         System.out.println("Default Constructor Called");
     }
 }
@@ -358,10 +357,11 @@ public class Constructor1 {
 
     public static void main(String[] args) {
 
-        Student s = new Student();
+        Student1 p = new Student1();
 
     }
 }
+/* 
 Program 2: Parameterized Constructor
 class Student {
 
