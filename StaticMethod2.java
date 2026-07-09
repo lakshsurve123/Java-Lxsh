@@ -564,8 +564,7 @@ public class StaticMethod1 {
 
     }
 }*/
-  
-class MathDemo {
+  /* class MathDemo {
 
     static int square(int n) {
 
@@ -582,9 +581,10 @@ public class StaticMethod2 {
         System.out.println(MathDemo.square(5));
 
     }
-}
-/* 
-class Demo {
+}*/
+
+
+class Demo3 {
 
     static {
 
@@ -598,7 +598,7 @@ class Demo {
 
     }
 }
-Program 2
+/* 
 class Test {
 
     static {
