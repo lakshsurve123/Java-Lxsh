@@ -433,7 +433,7 @@ public class This2 {
 
     }
 }*/
-
+/* 
 class Animal {
 
     String color = "White";
@@ -465,9 +465,8 @@ public class Super1 {
         d.printColor();
 
     }
-}
-/* 
-Program 2: Call Parent Constructor
+}*/
+
 class Animal {
 
     Animal() {
@@ -497,7 +496,7 @@ public class Super2 {
         new Dog();
 
     }
-}
+}/* 
 31. Static Variable
 Program 1
 class Student {
