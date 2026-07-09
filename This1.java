@@ -362,8 +362,7 @@ public class Constructor1 {
     }
 }
     */
-
-class Student2 {
+/*class Student2 {
 
     int id;
     String name;
@@ -386,24 +385,19 @@ public class Constructor2 {
 
         s.display1();
     }
-}
-/*
-29. this Keyword
-Program 1
-class Student {
+} */
+
+
+class Student3 {
 
     int id;
 
-    Student(int id) {
-
+    Student3(int id) {
         this.id = id;
-
     }
 
-    void show() {
-
+    void show1() {
         System.out.println(id);
-
     }
 }
 
@@ -411,12 +405,12 @@ public class This1 {
 
     public static void main(String[] args) {
 
-        Student s = new Student(10);
+        Student3 s = new Student3(10);
 
-        s.show();
-
+        s.show1();   // Correct method name
     }
 }
+/* 
 Program 2
 class Student {
 
