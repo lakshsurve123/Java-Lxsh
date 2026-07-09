@@ -583,7 +583,7 @@ public class StaticMethod2 {
     }
 }*/
 
-
+/*
 class Demo3 {
 
     static {
@@ -597,8 +597,8 @@ class Demo3 {
         System.out.println("Main Method");
 
     }
-}
-/* 
+}*/
+
 class Test {
 
     static {
@@ -618,9 +618,8 @@ class Test {
         System.out.println("Program Started");
 
     }
-}
-34. Encapsulation
-Program 1
+}/* 
+
 class Student {
 
     private int roll;
