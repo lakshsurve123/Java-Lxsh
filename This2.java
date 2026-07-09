@@ -387,7 +387,7 @@ public class Constructor2 {
     }
 } */
 
-
+/*
 class Student3 {
 
     int id;
@@ -410,9 +410,9 @@ public class This1 {
         s.show1();   // Correct method name
     }
 }
-/* 
-Program 2
-class Student {
+    */
+
+class Student4 {
 
     void display() {
 
@@ -425,7 +425,7 @@ public class This2 {
 
     public static void main(String[] args) {
 
-        Student s = new Student();
+        Student4 s = new Student4();
 
         System.out.println(s);
 
@@ -433,6 +433,7 @@ public class This2 {
 
     }
 }
+/*
 30. super Keyword
 Program 1: Access Parent Variable
 class Animal {
