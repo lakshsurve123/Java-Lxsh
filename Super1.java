@@ -411,7 +411,7 @@ public class This1 {
     }
 }
     */
-
+/*
 class Student4 {
 
     void display() {
@@ -432,10 +432,8 @@ public class This2 {
         s.display();
 
     }
-}
-/*
-30. super Keyword
-Program 1: Access Parent Variable
+}*/
+
 class Animal {
 
     String color = "White";
@@ -452,6 +450,10 @@ class Dog extends Animal {
         System.out.println(color);
 
     }
+
+    public void setColor(String color) {
+        this.color = color;
+    }
 }
 
 public class Super1 {
@@ -464,6 +466,7 @@ public class Super1 {
 
     }
 }
+/* 
 Program 2: Call Parent Constructor
 class Animal {
 
