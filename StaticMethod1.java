@@ -520,7 +520,7 @@ public class StaticVariable1 {
 
     }
 }*/
-
+/*
 class Counter {
 
     static int count = 0;
@@ -544,9 +544,8 @@ public class StaticVariable2 {
         System.out.println(Counter.count);
 
     }
-}/* 
-32. Static Method
-Program 1
+}*/
+
 class Demo {
 
     static void message() {
@@ -565,6 +564,7 @@ public class StaticMethod1 {
 
     }
 }
+    /*
 Program 2
 class MathDemo {
 
