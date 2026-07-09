@@ -345,7 +345,7 @@ public class ClassesObjects2 {
     }
 }   
 */
-
+/*
 class Student1 {
 
     Student1() {
@@ -361,24 +361,20 @@ public class Constructor1 {
 
     }
 }
-/* 
-Program 2: Parameterized Constructor
-class Student {
+    */
+
+class Student2 {
 
     int id;
     String name;
 
-    Student(int id, String name) {
-
+    Student2(int id, String name) {
         this.id = id;
         this.name = name;
-
     }
 
-    void display() {
-
+    void display1() {
         System.out.println(id + " " + name);
-
     }
 }
 
@@ -386,12 +382,12 @@ public class Constructor2 {
 
     public static void main(String[] args) {
 
-        Student s = new Student(101,"Laksh");
+        Student2 s = new Student2(101, "Laksh");
 
-        s.display();
-
+        s.display1();
     }
 }
+/*
 29. this Keyword
 Program 1
 class Student {
