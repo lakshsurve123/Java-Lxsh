@@ -33,7 +33,7 @@ public class hero {
     }
 }*/
 
-class Animal {
+/*class Animal {
 
     void eat() {
 
@@ -63,10 +63,9 @@ public class Inheritance1 {
         d.bark();
 
     }
-}
-/* 
-Program 2: Multilevel Inheritance
-class Animal {
+}*/
+
+/*class Animal {
 
     void eat() {
 
@@ -107,9 +106,9 @@ public class Inheritance2 {
         p.play();
 
     }
-}
-36. Method Overriding
-Program 1
+}*/
+
+
 class Animal {
 
     void sound() {
@@ -141,6 +140,7 @@ public class Overriding1 {
 
     }
 }
+/* 
 Program 2
 class Bank {
 
