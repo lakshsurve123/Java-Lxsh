@@ -191,7 +191,7 @@ public class PackageTest {
     }
 }*/
 
-class Demo {
+/*class Demo {
 
     public int number = 100;
 
@@ -206,9 +206,8 @@ public class Access1 {
         System.out.println(d.number);
 
     }
-}
-/* 
-Program 2: Private
+}*/
+
 class Demo {
 
     private int number = 100;
@@ -231,4 +230,3 @@ public class Access2 {
 
     }
 }
-*/
