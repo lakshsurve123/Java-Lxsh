@@ -141,7 +141,7 @@ public class Overriding1 {
     }
 }*/
 
-class Bank {
+/*class Bank {
 
     int rate() {
 
@@ -170,23 +170,15 @@ public class Overriding2 {
         System.out.println(s.rate());
 
     }
-}
-    /* 
-37. Packages
-Program 1
-package mypack;
-
-public class Demo {
+}*/
+/* 
+class Demo {
 
     public void show() {
-
         System.out.println("Package Example");
-
     }
 
 }
-Program 2 (Use the package)
-import mypack.Demo;
 
 public class PackageTest {
 
@@ -197,9 +189,8 @@ public class PackageTest {
         d.show();
 
     }
-}
-38. Access Modifiers
-Program 1: Public
+}*/
+
 class Demo {
 
     public int number = 100;
@@ -216,6 +207,7 @@ public class Access1 {
 
     }
 }
+/* 
 Program 2: Private
 class Demo {
 
