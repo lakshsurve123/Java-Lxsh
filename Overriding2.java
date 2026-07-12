@@ -109,7 +109,7 @@ public class Inheritance2 {
 }*/
 
 
-class Animal {
+/*class Animal {
 
     void sound() {
 
@@ -117,9 +117,9 @@ class Animal {
 
     }
 
-}
-
-class Dog extends Animal {
+}/*
+*/
+/*class Dog extends Animal {
 
     @Override
     void sound() {
@@ -139,9 +139,8 @@ public class Overriding1 {
         d.sound();
 
     }
-}
-/* 
-Program 2
+}*/
+
 class Bank {
 
     int rate() {
@@ -151,7 +150,6 @@ class Bank {
     }
 
 }
-
 class SBI extends Bank {
 
     @Override
@@ -173,6 +171,7 @@ public class Overriding2 {
 
     }
 }
+    /* 
 37. Packages
 Program 1
 package mypack;
