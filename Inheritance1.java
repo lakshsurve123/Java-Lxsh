@@ -1,11 +1,12 @@
 
  
 //Program 2
-class Employee {
+/*class Employee {
 
     private double salary;
 
     public void setSalary(double salary) {
+        
 
         this.salary = salary;
 
@@ -30,10 +31,8 @@ public class hero {
         System.out.println(e.getSalary());
 
     }
-}
-/*
-35. Inheritance
-Program 1: Single Inheritance
+}*/
+
 class Animal {
 
     void eat() {
@@ -65,6 +64,7 @@ public class Inheritance1 {
 
     }
 }
+/* 
 Program 2: Multilevel Inheritance
 class Animal {
 
